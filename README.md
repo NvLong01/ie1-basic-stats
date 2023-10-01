@@ -1,3 +1,8 @@
+# Constributors
+
+1. Viet Long Nguyen (long-nvl, vietlongnguy@umass.edu)  
+2. Siyan Lin (Elizabeth, siyanlin@umass.edu)
+
 # Basic Statistics
 
 Basic Statistics is a Java-based implementation for computing statistics on a set of numbers.
